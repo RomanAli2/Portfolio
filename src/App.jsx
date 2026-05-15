@@ -70,8 +70,8 @@ import './App.css'
   ];
   const Constact=[
     {icon:"fab fa-linkedin",title:"LinkedIn",Link:"https://www.linkedin.com/in/roman-ali-frontend/"},
-     {icon:"fab fa-instagram",title:"Instagram",Link:"https://www.instagram.com/be_like_roman/"},
-     {icon:"fas fa-briefcase",title:"Fiverr",Link:"https://www.fiverr.com/pe/kL6BYgy"},
+     {icon:"fab fa-instagram",title:"Instagram",Link:"https://www.instagram.com/roman_dev2/"},
+     {icon:"fas fa-briefcase",title:"Fiverr",Link:"https://www.fiverr.com/s/ZmbLejY"},
      {icon:"fab fa-github",title:"Github",Link:"https://github.com/RomanAli2"},
 
 
