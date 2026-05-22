@@ -94,7 +94,7 @@ import './App.css'
         <div className="max-w-7xl mx-auto px-6 py-4 flex flex-wrap gap-3 md:gap-0 justify-between items-center">
           <h1 className="text-2xl font-bold text-purple-700">Roman Ali</h1>
 
-          <div className="flex gap-8  font-medium text-gray-700">
+          <div className="flex gap-5 md:gap-8 font-medium text-gray-700">
             {["About", "Projects", "Skills", "Contact"].map((item, i) => (
               <a
                 key={i}
