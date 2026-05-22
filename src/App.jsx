@@ -165,7 +165,7 @@ import './App.css'
             <img
               src="/image/Gemini_Generated_Image_992ueo992ueo992u.png"
               alt="developer"
-              className="rounded-full text-center w-80 md:h-100 md:w-100 h-80 "
+              className="rounded-full text-center w-50 md:h-80 md:w-80 h-50 "
             />
           </motion.div>
         </motion.div>
