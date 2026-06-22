@@ -163,7 +163,7 @@ import './App.css'
             className="relative flex justify-center bg-white/70 backdrop-blur-xl border border-purple-100 rounded-3xl p-8 shadow-2xl text-center"
           >
             <img
-              src="/image/Gemini_Generated_Image_992ueo992ueo992u.png"
+              src="/image/ChatGPT Image Jun 18, 2026, 05_53_43 AM.png"
               alt="developer"
               className="rounded-full text-center w-50 md:h-80 md:w-80 h-50 "
             />
